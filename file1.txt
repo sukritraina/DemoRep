@@ -1,0 +1,1 @@
+This is my first file in the working directory to understand how Version control system work, and hey, I am going to use git for this thing. Yay!!
